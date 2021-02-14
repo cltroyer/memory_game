@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App-header {
+  height: 140px;
+}
+
+h2 {
+  height: 100px;
+  color: #767676;
+}
